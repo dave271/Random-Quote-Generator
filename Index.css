@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Lustria&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cuprum:700&display=swap');
+
+body {
+    background-color: hsl(337, 100%, 55%);
+  }
+
+  h1 {
+    font-family: 'Lustria', serif;
+    font-size: 38px;
+    font-weight: 750;
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    } 
+
+    h4 {
+        font-family:'Cuprum', sans-serif;
+        font-style: italic;
+        font-size: 18px;
+        color: white;
+        margin-top: 5px;
+        }
+
+    #quote-box {
+        background-color: hsl(356, 71%, 88%);
+        padding: 50px;
+        width: 60%;
+        margin-right: auto;
+        margin-left: auto;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 1.2em;
+        font-family: 'Lustria', serif;
+        font-weight: 590;
+
+        }
+
+    .buttons {
+        margin-top: 40px;
+        font-family: "Times New Roman", Times, serif;
+        font-weight: 500;
+    }
+    
+    .btn-primary {
+        background-color: hsl(337, 100%, 55%);
+        border: none;
+      }
+
+    .btn-primary:hover {
+        color: white;
+        background-color: hsl(337, 100%, 60%);
+      }
+
+    .btn.focus, .btn:focus {
+        outline: 0;
+        box-shadow: none!important;
+    }
+
+    .fa {
+        font-size: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+      }

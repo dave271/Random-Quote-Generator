@@ -1,0 +1,1 @@
+This Quote machine basically generates random inspirational quotes. It makes an Ajax call to a random quote generator API and displays the response on the page.
